@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { useTheme } from "../context/ThemeContext";
+import { motion } from "framer-motion";
 
 import {
   darkTheme,
